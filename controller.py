@@ -7,4 +7,5 @@ import views_main_page
 
 
 
-if _
+if __name__ == "__main__":
+    views_main_page.Main_Page()
