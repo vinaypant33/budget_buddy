@@ -1,0 +1,5 @@
+app_base  = "#011B2A"
+sidebar_base  = "#010F17"
+buton_controls = "#86BFDF"
+text_color  = "#CCC5C0"
+charts_color  = "#9379EF"
